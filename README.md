@@ -1,0 +1,2 @@
+# log4shell-validator
+Visio goodness to help you quickly figure out if you're likely affected by #log4shell and if you need to upgrade to the latest version (spoiler alert - you should)
