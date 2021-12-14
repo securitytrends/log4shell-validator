@@ -4,5 +4,5 @@ Visio goodness to help you figure out if you're affected by #log4shell and need 
 
 More will likely follow later in the week, including links to other great resources providing remediation guidance, descriptive writeups, technical analysis, WAF bypass payloads listed on other posts to help you identify any sneaky payloads trying to get past your filters, etc.
 
-<img src="" width="900" height="1200" />
+<img src="https://github.com/securitytrends/log4shell-validator/blob/main/Log4Shell_cheatsheet.png" width="1440" height="1440" />
 
